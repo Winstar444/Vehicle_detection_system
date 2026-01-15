@@ -1,6 +1,6 @@
 🚗 Vehicle Detection and Traffic Analytics System
 
-Creator / Developer: tubakhxn
+Creator / Developer: Shubham Mehrotra
 
 A real-time vehicle detection, tracking, and traffic analytics system built using Python and computer vision techniques. The system processes traffic videos or live webcam feeds to detect vehicles, track them with unique IDs, estimate speed, flag over-speeding, and generate analytics.
 
